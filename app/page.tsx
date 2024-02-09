@@ -1,9 +1,3 @@
-import { Button } from "@/components/ui/button";
-
 export default function Home() {
-  return (
-    <p>
-      <Button size={"sm"}>button</Button>
-    </p>
-  );
+  return <>MainPage</>;
 }
